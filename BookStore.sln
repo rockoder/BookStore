@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BookStoreLibrary", "BookStoreLibrary\BookStoreLibrary.vcxproj", "{5A478E42-6C8E-4A22-8F38-7942BE89C9FE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BookStoreApp", "BookStoreApp\BookStoreApp.vcxproj", "{91F6828E-BE46-4B45-A042-253143590371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A478E42-6C8E-4A22-8F38-7942BE89C9FE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A478E42-6C8E-4A22-8F38-7942BE89C9FE}.Debug|Win32.Build.0 = Debug|Win32
+		{5A478E42-6C8E-4A22-8F38-7942BE89C9FE}.Release|Win32.ActiveCfg = Release|Win32
+		{5A478E42-6C8E-4A22-8F38-7942BE89C9FE}.Release|Win32.Build.0 = Release|Win32
+		{91F6828E-BE46-4B45-A042-253143590371}.Debug|Win32.ActiveCfg = Debug|Win32
+		{91F6828E-BE46-4B45-A042-253143590371}.Debug|Win32.Build.0 = Debug|Win32
+		{91F6828E-BE46-4B45-A042-253143590371}.Release|Win32.ActiveCfg = Release|Win32
+		{91F6828E-BE46-4B45-A042-253143590371}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
