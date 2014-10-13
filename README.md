@@ -1,9 +1,9 @@
 BookStore
 =========
 
-This was an offline assignment given as part of interview process in one of product development company. Below is the problem statement emailed to me by the HR person. I implemented based on this description. No more details were provided. I tired to strictly follow the interface and instructions mentioned although I believe those didn't fit in correctly. I was given four days to implement it. The assignment was given on Friday evening and I was suppose to email the code by Wednesday. In all I had two full days (Saturday/Sunday) and two less-than-half days (Monday/Tuesday) as I had busy days in my current full time job.
+This is an assignment given as part of interview process in one of the product development company. Below is the problem statement. I implemented based on this description. No more details are provided. I tired to strictly follow the interface and instructions mentioned although I believe those didn't fit in correctly.
 
-I learnt a lot while working on this assignment and it does demonstrate the kind of C++ code I could write. I don't intend to make any enhancements to this code since the fun part was the deadline. However will be creating a writeup on my design decisions and assumptions - which, unfortunately, I could not find time to include with the original 'drop' to the HR. Also I might fix any bug that I come across.
+I learnt a lot while working on this assignment and it does demonstrate the kind of C++ code I could write. I don't intend to make any enhancements to this code since the fun part was the deadline. However will be creating a writeup on my design decisions and assumptions. Also I might fix any bug that I come across.
 
 
 Problem Statement
